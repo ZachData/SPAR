@@ -81,7 +81,7 @@ class GELU1LModel:
             from datasets import load_dataset
             
             # Load the dataset - use a tiny subset for testing to be safe
-            data = load_dataset(self.config.dataset_name, cache_dir="G:\\Huggingface_datasets")
+            data = load_dataset(self.config.dataset_name, split="train")
             
             # Tokenize the dataset
             tokenized_data = utils.tokenize_and_concatenate(
