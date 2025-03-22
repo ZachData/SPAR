@@ -123,6 +123,3 @@ This implementation is made by:
 - Neel Nanda's ["Open Source Replication & Commentary on Anthropic's Dictionary Learning"](Open Source Replication & Commentary on Anthropic's Dictionary Learning Paper) paper
   and [Colab](https://colab.research.google.com/drive/1u8larhpxy8w4mMsJiSBddNOzFGj7_RTn?usp=sharing)
 
-## License
-
-[MIT License](LICENSE)
