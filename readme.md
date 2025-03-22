@@ -103,7 +103,6 @@ python analyze_gpt2_sae.py ./results/sae_gpt2small_l0_post_20250322-120000.pt \
 - `toy_model.py` - Toy model implementation for superposition studies
 - `gelu_1l_model.py` - Wrapper for GELU-1L transformer model
 - `gpt2_model.py` - Wrapper for GPT-2 small model
-- `analyze_gpt2_sae.py` - Analysis tools for trained models
 - `tests.py` - Unit tests
 
 ## TensorBoard Visualization
