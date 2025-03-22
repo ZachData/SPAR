@@ -1,6 +1,6 @@
 # VSAE - Variational Sparse Autoencoders
 
-This repository implements Variational Sparse Autoencoders (VSAEs) for disentangling superposed features in neural networks, alongside traditional Sparse Autoencoders (SAEs) for comparison.
+This repository implements Variational Sparse Autoencoders (VSAEs) for disentangling superposed features in neural networks, alongside traditional Sparse Autoencoders (SAEs) for comparison. GPT2-small is not functional yet.
 
 ## Project Overview
 
