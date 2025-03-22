@@ -120,7 +120,8 @@ This implementation is made by:
 - Yuxioa Li's Refining SAE for Correlated Features Extraction Colab
 - Anthropic's ["Toy Models of Superposition"](https://arxiv.org/abs/2209.10652) paper and [Colab](https://colab.research.google.com/github/anthropics/toy-models-of-superposition/blob/main/toy_models.ipynb) 
 - Anthropic's ["Towards Monosemanticity: Decomposing Language Models With Dictionary Learning"](https://arxiv.org/abs/2402.14705) paper
-- Neel Nanda's ["Open Source Replication & Commentary on Anthropic's Dictionary Learning"](Open Source Replication & Commentary on Anthropic's Dictionary Learning Paper) paper and [Colab](https://colab.research.google.com/drive/1u8larhpxy8w4mMsJiSBddNOzFGj7_RTn?usp=sharing)
+- Neel Nanda's ["Open Source Replication & Commentary on Anthropic's Dictionary Learning"](Open Source Replication & Commentary on Anthropic's Dictionary Learning Paper) paper
+  and [Colab](https://colab.research.google.com/drive/1u8larhpxy8w4mMsJiSBddNOzFGj7_RTn?usp=sharing)
 
 ## License
 
