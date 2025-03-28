@@ -29,6 +29,10 @@ Thumbs.db
 htmlcov/
 
 # Ignore folders
- runs/
- results/
- 
+runs/
+results/
+
+# Ignore model files
+*.pt
+*.pth
+*.ckpt
