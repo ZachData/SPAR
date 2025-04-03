@@ -1,0 +1,56 @@
+python feature_comparison.py --sae1_path "C:\Users\WeeSnaw\Desktop\spar\results\vsae_gelu_comparison\vsae_iso_gelu1l_20250328-205159.pt" --sae2_path "C:\Users\WeeSnaw\Desktop\spar\results\vsae_gelu_comparison\vsae_iso_gelu1l_20250329-044018.pt" --base_model_path /path/to/base_model.pt --feature_idx 269 --top_k 100 --output_csv results.csv
+
+
+
+python feature_comparison.py --sae1_path "C:\Users\WeeSnaw\Desktop\spar\results\vsae_gelu_comparison\vsae_iso_gelu1l_20250328-205159.pt" --sae2_path "C:\Users\WeeSnaw\Desktop\spar\results\vsae_gelu_comparison\vsae_iso_gelu1l_20250329-044018.pt" --feature_idx 269 --top_k 50 --output_csv results.csv
+
+
+1. Feature 588: similarity = 0.617662
+2. Feature 480: similarity = 0.576091
+3. Feature 130: similarity = 0.569197
+4. Feature 515: similarity = 0.563567
+5. Feature 159: similarity = 0.561227
+6. Feature 8: similarity = 0.555653
+7. Feature 785: similarity = 0.552422
+8. Feature 67: similarity = 0.549231
+9. Feature 915: similarity = 0.548940
+10. Feature 421: similarity = 0.544829
+11. Feature 343: similarity = 0.544171
+12. Feature 304: similarity = 0.541992
+13. Feature 474: similarity = 0.541143
+14. Feature 804: similarity = 0.534588
+15. Feature 947: similarity = 0.533188
+16. Feature 177: similarity = 0.532724
+17. Feature 744: similarity = 0.532359
+18. Feature 1006: similarity = 0.531690
+19. Feature 87: similarity = 0.522049
+20. Feature 722: similarity = 0.521646
+21. Feature 294: similarity = 0.517117
+22. Feature 664: similarity = 0.513410
+23. Feature 76: similarity = 0.510658
+24. Feature 38: similarity = 0.496615
+25. Feature 932: similarity = 0.491478
+26. Feature 425: similarity = 0.489365
+27. Feature 755: similarity = 0.488299
+28. Feature 662: similarity = 0.486613
+29. Feature 381: similarity = 0.482986
+30. Feature 255: similarity = 0.475913
+31. Feature 338: similarity = 0.475602
+32. Feature 583: similarity = 0.472195
+33. Feature 753: similarity = 0.472083
+34. Feature 462: similarity = 0.470052
+35. Feature 187: similarity = 0.467932
+36. Feature 241: similarity = 0.465939
+37. Feature 973: similarity = 0.463647
+38. Feature 606: similarity = 0.463486
+39. Feature 103: similarity = 0.462512
+40. Feature 20: similarity = 0.459570
+41. Feature 617: similarity = 0.459413
+42. Feature 486: similarity = 0.459292
+43. Feature 890: similarity = 0.458276
+44. Feature 193: similarity = 0.458183
+45. Feature 919: similarity = 0.457113
+46. Feature 409: similarity = 0.456847
+47. Feature 727: similarity = 0.455004
+48. Feature 182: similarity = 0.454622
+49. Feature 538: similarity = 0.454504
